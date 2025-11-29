@@ -3,7 +3,6 @@
 **Date:** October 3, 2025  
 **Status:** Validated via 18 user interviews  
 **Last Updated:** November 29, 2025
-
 ---
 
 ## The Problem
