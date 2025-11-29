@@ -1,6 +1,6 @@
 # Ideal Customer Profile (ICP) - Draft 1
 
-**Date:** October 27, 2025  
+**Date:** October 3, 2025  
 **Status:** Draft (to be validated via interviews)  
 **Version:** 1.0
 
